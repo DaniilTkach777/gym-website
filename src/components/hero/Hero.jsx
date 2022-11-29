@@ -29,6 +29,23 @@ const Hero = () => {
             </div>
         </div>
 
+        {/* figures */}
+
+        <div className="figures">
+          <div>
+            <span>+157</span>
+            <span>expert coachs</span>
+          </div>
+          <div>
+            <span>+957</span>
+            <span>members joined</span>
+          </div>
+          <div>
+            <span>+75</span>
+            <span>fitness programs</span>
+          </div>
+        </div>
+
         </div>
        <div className="right-h"></div>
     </div>
