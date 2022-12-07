@@ -15,7 +15,7 @@
 .right-h {
     flex:1;
     position: relative;
-    background-color: var(--orange)
+    background-color: #15f423;
 
 }
 
@@ -37,7 +37,7 @@
 }
 .the-best-ad>div{
     position:absolute;
-    background-color: var(--orange);
+    background-color: #15f423;
     width: 5.2rem;
     height: 79%;
     left: 7px;
@@ -94,7 +94,7 @@
 
 {
     color: white;
-    background-color: var(--orange);
+    background-color: #15f423;
     width: 8rem;
 }
 
@@ -104,7 +104,7 @@
     color: white;
     background-color: transparent;
     width: 8rem;
-    border: 2px solid var(--orange);
+    border: 2px solid #15f423;
 }
 
 .right-h>.btn{
