@@ -11,7 +11,10 @@ const Programs = () => {
                 <span>Programs</span>
                 <span className='stroke-text'>To Shape You</span>
             </div>
-        <div className="program-categories">
+
+            
+            
+            <div className="prgoram-categories">
             {programsData.map ((program)=>(
              <div className="category">
                 {program.image}

@@ -14,11 +14,28 @@
     font-style: italic;
     color: white;
 }
-.category{
+
+.prgoram-categories{
     display: flex;
-    flex-direction: column;
+    gap: 5rem;
+    justify-content: center;
+    text-align: center;
+}
+.category {
     background-color: gray;
+    color: #fff;
+    flex: 1 1;
+    flex-direction: column;
+    justify-content: space-between;
     padding: 2rem;
+}
+.category {
+    display: flex;
     gap: 1rem;
-    color: white;
+}
+
+.category>:first-child {
+    fill: #fff;
+    height: 2rem;
+    width: 2rem;
 }
