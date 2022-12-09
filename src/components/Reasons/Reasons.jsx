@@ -20,8 +20,27 @@ const Reasons = () => {
                 <span>some reasons</span>
 
                 <div>
-                    <span>why</span>
-                    <span>chose us</span>
+                    <span className="stroke-text">why</span>
+                    <span> chose us?</span>
+                </div>
+
+                <div className='details-r'>
+                    <div>
+                       <img src={tick} alt=""></img>
+                       <span></span>
+                    </div>
+                    <div>
+                       <img src={tick} alt="" />
+                       <span></span>
+                    </div>
+                    <div>
+                       <img src={tick} alt="" />
+                       <span></span>
+                    </div>
+                    <div>
+                       <img src={tick} alt="" />
+                       <span></span>
+                    </div>
                 </div>
             </div>
         </div>
