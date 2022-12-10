@@ -65,3 +65,11 @@
 .feature>img{
     width: 1rem;
 }
+
+.plan:nth-child(2)>svg{
+    fill: white;
+}
+
+.plan:nth-child(2)>button{
+    color: #21d97e;
+}
