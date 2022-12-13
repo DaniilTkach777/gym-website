@@ -51,3 +51,11 @@
 .hero-buttons>buttons:hover{
   cursor: pointer;
 }
+
+.blur{
+  background: #15f423;
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(157px);
+  z-index: -9;
+}

@@ -26,3 +26,7 @@
     height: 2rem;
     cursor: pointer;
 }
+
+.logo-f>img {
+    width: 10rem;
+}
