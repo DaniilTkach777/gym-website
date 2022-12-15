@@ -22,7 +22,7 @@ const Hero = () => {
         whileInView={{left: '8px'}}
         transition={ {...trasition, type: 'tween'} }
         
-        >
+      >
 
         </motion.div>
         <span>The best Gym in the town!</span>
