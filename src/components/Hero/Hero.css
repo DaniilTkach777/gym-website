@@ -254,6 +254,24 @@
             width: 2rem;
         }
 
+        .calories>div>:nth-child(2){
+            color: white;
+            font-size: 1rem;
+        }
+
+        .hero-image{
+            position: relative;
+            width: 15rem;
+            left: 7rem;
+            top: 4rem;
+            align-self: center;
+        }
+        .hero-image-back{
+            width: 15rem;
+            left: 2rem;
+            top: 0rem;
+        }
+
 
 
 
